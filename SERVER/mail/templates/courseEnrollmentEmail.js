@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
     
     <body>
         <div class="container">
-            <a href="https://vidya-sankalp.vercel.app"><img class="logo" src="https://i.ibb.co/7Xyj3PC/logo.png"
+            <a href="https://vidya-sankalp.vercel.app"><img class="logo" src="https://ibb.co/28YxFb0"
                     alt="VidyaSankalp Logo"></a>
             <div class="message">Course Registration Confirmation</div>
             <div class="body">
